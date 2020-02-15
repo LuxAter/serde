@@ -1,0 +1,1 @@
+{ "directory": "/home/arden/Programming/serde", "file": "main.cpp", "output": "/tmp/main-d6c836.o", "arguments": ["/usr/bin/clang-9", "-xc++", "main.cpp", "--driver-mode=g++", "--target=x86_64-pc-linux-gnu"]},
